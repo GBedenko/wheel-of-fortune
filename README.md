@@ -1,4 +1,4 @@
-#Introduction to Programming Assignment
+# Introduction to Programming Assignment
 
 Wheel of Fortune Game (Java)
 
