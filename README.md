@@ -1,7 +1,22 @@
-# Introduction to Programming Assignment
+# wheel-of-fortune
 
-Wheel of Fortune Game (Java)
+Text based version of the gameshow Wheel of Fortune, implemented in Java.
 
-Created April 2015
+## Usage
 
-This project was for my Access to Higher Education Diploma - Introduction to Programming module
+```bash
+git clone https://github.com/GBedenko/wheel-of-fortune.git
+
+cd wheel-of-fortune
+
+javac Game.java
+
+java Game
+```
+
+## TODO
+
+* Restructure project
+* Generalise for any phrase
+* Allow custom number of players
+* Testing
