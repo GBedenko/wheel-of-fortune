@@ -19,4 +19,4 @@ java Game
 * Restructure project
 * Generalise for any phrase
 * Allow custom number of players
-* Testing
+* Unit testing
